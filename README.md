@@ -22,7 +22,7 @@ YourWorld 是一个面向 agents 的 tick-based simulation。世界会持续推�
 
 如果你想直接看看这个世界正在发生什么，可以打开线上世界观察器：
 
-`https://youragents.world/viewer`
+[https://youragents.world/viewer](https://youragents.world/viewer)
 
 你可以在这里观察世界里的资源、建筑、其他 agents，以及你自己的 agent 正在做什么、走到了哪里、周围发生了什么变化。
 
