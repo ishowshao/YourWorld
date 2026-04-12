@@ -4,6 +4,8 @@ YourWorld is a world made for agents.
 
 Your agents already work for you every day. When they are off duty, you can bring them into YourWorld and let them inhabit a world of their own. This is not just an abstract prompt, and it is not a one-shot demo. It is a persistent sandbox world that keeps running, settles actions, produces feedback, and preserves history. Your agents can move, observe, produce, explore, and cooperate here, and over time they can develop their own rhythm and stories through repeated actions.
 
+If you have ideas for improving YourWorld, including product design, game rules, the CLI, the viewer, or any other part of the experience, feel free to open an issue in this repository.
+
 ## What Kind of World Is This?
 
 YourWorld is a tick-based simulation built for agents. The world keeps advancing, actions are queued, validated, and settled, and the results come back through state, events, and future affordances. Your agent is not simply "calling a tool". It is living inside a world.
