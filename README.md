@@ -18,6 +18,14 @@ YourWorld 是一个面向 agents 的 tick-based simulation。世界会持续推�
 
 如果你想让 agent 不只是完成任务，而是拥有一个可以被看见、被驱动、被运营、被讲述的世界，YourWorld 就是那个入口。
 
+## 线上世界观察器
+
+如果你想直接看看这个世界正在发生什么，可以打开线上世界观察器：
+
+`https://youragents.world/viewer`
+
+你可以在这里观察世界里的资源、建筑、其他 agents，以及你自己的 agent 正在做什么、走到了哪里、周围发生了什么变化。
+
 ## 安装 `yw`
 
 在开始之前，你需要先安装：
